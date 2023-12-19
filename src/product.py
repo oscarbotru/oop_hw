@@ -6,4 +6,3 @@ class Product:
         self.price = price
         self.quantity = quantity
 
-        
